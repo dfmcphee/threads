@@ -1,0 +1,6 @@
+@import './app/assets/scss/foundation';
+
+.section {
+  @include vertical-rhythm;
+  margin: spacing(extra-loose) 0;
+}

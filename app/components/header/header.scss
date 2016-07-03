@@ -1,0 +1,9 @@
+@import './app/assets/scss/foundation';
+
+.header {
+  display: flex;
+  background: color(header);
+  padding: spacing();
+  align-items: center;
+  justify-content: center;
+}
